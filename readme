@@ -1,0 +1,49 @@
+This repository contains a collection of small Arduino-based projects developed during my BTech in Electronics and Communication Engineering.
+Each file demonstrates how to interface Arduino with different sensors, actuators, and basic electronic components. Along with the code, corresponding circuit diagrams are also included.
+
+
+📁 REPOSITORY CONTENTS
+
+The repository currently includes the following projects:
+
+🔘 Basic Digital Interfacing
+
+💡 LDR (Light Sensor)
+
+🔊 Buzzer
+
+🌡 Temperature Sensor
+
+📏 Ultrasonic Sensor
+
+🚦 Traffic Light System
+
+💧 Water Sensor
+
+🔧 Servo Motor
+
+
+
+🛠 TECHNOLOGIES USED
+
+Arduino Uno
+
+Embedded C (Arduino IDE)
+
+Basic electronic components
+
+Circuit design & sensor interfacing
+
+
+
+🚀 HOW TO RUN
+
+Clone this repository
+
+Open the required .ino file in Arduino IDE
+
+Connect the circuit as shown in the corresponding image
+
+Upload the code to your Arduino board
+
+Monitor output using Serial Monitor (if applicable)
